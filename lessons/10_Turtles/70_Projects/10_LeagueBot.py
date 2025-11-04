@@ -17,3 +17,4 @@ screen.bgcolor('white')
 
 t = turtle.Turtle()
 
+def set_turtle_image():
