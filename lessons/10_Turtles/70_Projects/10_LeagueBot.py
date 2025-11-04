@@ -17,4 +17,4 @@ screen.bgcolor('white')
 
 t = turtle.Turtle()
 
-def set_turtle_image():
+def set_turtle_image('leaguebot_bot.gif'):
