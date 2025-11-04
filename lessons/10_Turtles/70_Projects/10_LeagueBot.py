@@ -28,3 +28,4 @@ def set_turtle_image(turtle, image_name):
     turtle.shape(image_path)
 
 set_turtle_image('leaguebot_bot.gif')
+
