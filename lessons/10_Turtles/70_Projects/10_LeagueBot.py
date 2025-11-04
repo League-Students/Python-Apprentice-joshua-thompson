@@ -29,6 +29,9 @@ def set_turtle_image(turtle, image_name):
 
 set_turtle_image('leaguebot_bot.gif')
 
+tina.pendown()
+tina.color('blue')
 
-tina.forward(60)
-tina.left(80)
+for i in range(6):
+    tina.forward(60)
+    tina.left(80)
