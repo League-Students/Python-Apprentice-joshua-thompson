@@ -27,4 +27,4 @@ def set_turtle_image(turtle, image_name):
     screen.addshape(image_path)
     turtle.shape(image_path)
 
-set
+set_turtle_image('leaguebot_bot.gif')
