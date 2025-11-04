@@ -17,4 +17,4 @@ screen.bgcolor('white')
 
 t = turtle.Turtle()
 
-def set_turtle_image("Pich")
+def set_turtle_image("Pica")
