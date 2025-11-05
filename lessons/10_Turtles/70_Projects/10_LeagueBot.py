@@ -27,10 +27,10 @@ def set_turtle_image(turtle, image_name):
     screen.addshape(image_path)
     turtle.shape(image_path)
 
-set_turtle_image('leaguebot_bot.gif')
+set_turtle_image(t,'leaguebot_bot.gif')
 
-tina.pendown()
-tina.color('blue')
+t.pendown()
+t.color('blue')
 
 for i in range(6):
     tina.forward(60)
