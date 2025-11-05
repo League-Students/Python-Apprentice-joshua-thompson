@@ -20,7 +20,7 @@ t = turtle.Turtle()
 def set_turtle_image(turtle, image_name):
 
     from pathlib import Path
-    image_dir = Path(__file__).parent / 
+    image_dir = Path(__file__).parent / "images"
     image_path = str(image_dir / image_name)
 
     screen = turtle.getscreen()
