@@ -34,4 +34,4 @@ t.color('blue')
 
 for i in range(6):
     t.forward(60)
-    tia.left(80)
+    t.left(80)
