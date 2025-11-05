@@ -33,5 +33,5 @@ t.pendown()
 t.color('blue')
 
 for i in range(6):
-    tina.forward(60)
-    tina.left(80)
+    t.forward(60)
+    tia.left(80)
